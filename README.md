@@ -48,9 +48,9 @@ A summary of the access policies in place can be found in the table below.
 
 | Name     | Publicly Accessible | Allowed IP Addresses |
 |----------|---------------------|----------------------|
-| Jump Box | No                  | 70.176.78.185        |
+| Jump Box | No                  | Home IP              |
 | VN       | No                  | 10.0.0.5             |
-| elk-vm   | No                  | 70.176.78.185         |
+| elk-vm   | No                  | Home IP              |
 
 ### Elk Configuration
 
